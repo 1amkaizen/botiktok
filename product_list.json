@@ -1,0 +1,694 @@
+{
+  "code": 0,
+  "data": {
+    "products": [
+      {
+        "create_time": 1693546874,
+        "id": "1729702108575468094",
+        "name": "Kaos Tshirt Pria Terbaru Samurai Jepang Luffy Kalung Warna Maroon Distro Lengan Pendek Motif Sablon Bergambar Keren",
+        "sale_regions": [
+          "ID"
+        ],
+        "skus": [
+          {
+            "id": "1729702108575533630",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108575599166",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108575664702",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108575730238",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108575795774",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108575861310",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108575926846",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108575992382",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 998,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576057918",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 983,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576123454",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 991,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576188990",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 993,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576254526",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 975,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576320062",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 998,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576385598",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576451134",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576516670",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576582206",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576647742",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576713278",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702108576778814",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105565465150",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105565530686",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105565596222",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105565661758",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105565727294",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105565792830",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105565858366",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105565923902",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105565989438",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566054974",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566120510",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566186046",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566251582",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566317118",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566382654",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566448190",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 999,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566513726",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566579262",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566644798",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566710334",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566775870",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566841406",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566906942",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105566972478",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105567038014",
+            "price": {
+              "currency": "IDR",
+              "original_price": "59900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105567103550",
+            "price": {
+              "currency": "IDR",
+              "original_price": "45900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105567169086",
+            "price": {
+              "currency": "IDR",
+              "original_price": "45900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          },
+          {
+            "id": "1729702105567234622",
+            "price": {
+              "currency": "IDR",
+              "original_price": "45900"
+            },
+            "seller_sku": "",
+            "stock_infos": [
+              {
+                "available_stock": 1000,
+                "warehouse_id": "7267132469165786885"
+              }
+            ]
+          }
+        ],
+        "status": 4,
+        "update_time": 1693647884
+      }
+    ],
+    "total": 100
+  },
+  "message": "Success",
+  "request_id": "021694073184232fdbddc61000604090000000000000166d2b7c4"
+}

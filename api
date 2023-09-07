@@ -1,0 +1,7 @@
+auth.tiktok-shops.com/api/v2/token/get?app_key=69t0f0g96s1gu&auth_code=123&app_secret=d6e9b1cba71db17125374289807a2cd509c77997&grant_type=authorized_code
+
+refresh token
+auth.tiktok-shops.com/api/v2/token/refresh?app_key=69t0f0g96s1gu&app_secret=d6e9b1cba71db17125374289807a2cd509c77997&grant_type=refresh_token
+
+postman
+https://open-api.tiktokglobalshop.com/api/products/categories?timestamp={{timestamp}}&app_key=3ie3g0&sign={{sign}}&shop_id=7493990568670889543&category_id=602362&access_token=DYKYEM6XVVGANOHQCUFN-W

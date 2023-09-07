@@ -1,0 +1,103 @@
+{
+    "code": 0,
+    "data": {
+      "category_list": [
+        {
+          "id": "824328",
+          "is_leaf": false,
+          "local_display_name": "Pakaian & Pakaian Dalam Pria",
+          "parent_id": "0"
+        },
+        {
+          "id": "839944",
+          "is_leaf": false,
+          "local_display_name": "Atasan Pria",
+          "parent_id": "824328"
+        },
+        {
+          "id": "601226",
+          "is_leaf": true,
+          "local_display_name": "T-shirt",
+          "parent_id": "839944"
+        }
+      ],
+      "create_time": 1693546391340,
+      "description": "ini deskripsi",
+      "images": [
+        {
+          "height": 930,
+          "id": "id-1",
+          "thumb_url_list": [
+            "https://url1"
+           
+          ],
+          "url_list": [
+           
+            "https://url2"
+          ],
+          "width": 930
+        }
+      ], 
+      "is_cod_open": false,
+      "package_weight": "0.2",
+      "product_id": "1729702096382888510",
+      "product_name": "Kaos Tshirt",
+      "product_status": 4,
+      "size_chart": {
+        "height": 1024,
+        "id": "ini id",
+        "thumb_url_list": [
+            "https://url1"
+        ],
+        "url_list": [
+            "https://url1"
+        ],
+        "width": 1024
+      },
+      "skus": [
+        {
+          "id": "1729702096382954046",
+          "price": {
+            "currency": "IDR",
+            "original_price": "59900"
+          },
+          "sales_attributes": [
+            {
+              "id": "100000",
+              "name": "Warna",
+              "sku_img": {
+                "height": 1024,
+                "id": "tos-maliva-i-o3syd03w52-us/0cc8b6207fd54b6f824614c559bafc02",
+                "thumb_url_list": [
+                    "https://url1"
+                ],
+                "url_list": [
+                    "https://url1"
+                ],
+                "width": 1024
+              },
+              "value_id": "7273726167109191429",
+              "value_name": "ZORO S7 PUTIH"
+            },
+            {
+              "id": "100007",
+              "name": "Ukuran",
+              "value_id": "7273726224638658309",
+              "value_name": "M"
+            }
+          ],
+          "seller_sku": "",
+          "stock_infos": [
+            {
+              "available_stock": 0,
+              "warehouse_id": "7267132469165786885"
+            }
+          ]
+        }
+       
+        
+       
+        
+        
+      ]
+}
